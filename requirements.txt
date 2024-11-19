@@ -32,7 +32,7 @@ itsdangerous==2.0.1
 python-Levenshtein 
  
  
-#jisshu 
+#Toxic 
 opencv-python-headless==4.7.0.68  
  python-dotenv==0.21.1  
  speedtest==0.0.1  
